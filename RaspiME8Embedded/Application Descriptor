@@ -1,0 +1,7 @@
+MIDlet-1: HelloRaspi,,net.rt.rpi.hello.HelloRaspi
+MIDlet-Jar-URL: RaspiME8Embedded.jar
+MIDlet-Name: RaspiME8Embedded MIDlet Suite
+MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.8
+MicroEdition-Profile: MEEP-8.0

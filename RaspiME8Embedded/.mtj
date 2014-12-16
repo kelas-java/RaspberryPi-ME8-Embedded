@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mtjMetadata jad="RaspiME8Embedded.jad" version="2.0.0.201411062058">
+   <device group="Oracle Java(TM) Platform Micro Edition SDK 8.1" name="EmbeddedExternalDevice1"/>
+   <signing projectSpecific="false" signProject="false">
+      <alias/>
+   </signing>
+   <configurations>
+      <configuration active="true" name="EmbeddedExternalDevice1">
+         <device group="Oracle Java(TM) Platform Micro Edition SDK 8.1" name="EmbeddedExternalDevice1"/>
+         <symbolSet name="EmbeddedExternalDevice1">
+            <symbol name="MEEP-POWER-MANAGEMENT" value="1.0"/>
+            <symbol name="apis.supported" value="CONFIGURATION-1.0,DEVICE-IO-1.0,GCF-1.8,HTTPCLIENT-1.0,JSON-1.0,JSR172-1.0,JSR179-1.0,JSR280-1.0,JSR75-FileConnection-1.0,MEEP-EVENTS-1.0,MEEP-IO-1.0,MEEP-POWER-MANAGEMENT-1.0,MEEP-RMS-1.0,MEEP-SWM-1.0,OAUTH2-1.0,SATSA-CRYPTO-1.0,SATSA-EXTENSION-1.0"/>
+            <symbol name="SATSA-CRYPTO" value="1.0"/>
+            <symbol name="version.configuration" value="CLDC-1.8"/>
+            <symbol name="HTTPCLIENT" value="1.0"/>
+            <symbol name="DEVICE-IO" value="1.0"/>
+            <symbol name="CONFIGURATION" value="1.0"/>
+            <symbol name="MEEP" value="8.0"/>
+            <symbol name="JSR75-FileConnection" value="1.0"/>
+            <symbol name="version.profile" value="MEEP-8.0"/>
+            <symbol name="JSON" value="1.0"/>
+            <symbol name="GCF" value="1.8"/>
+            <symbol name="descriptor" value="Java ME Embedded External Device"/>
+            <symbol name="MEEP-RMS" value="1.0"/>
+            <symbol name="OAUTH2" value="1.0"/>
+            <symbol name="JSR179" value="1.0"/>
+            <symbol name="CLDC" value="1.8"/>
+            <symbol name="MEEP-EVENTS" value="1.0"/>
+            <symbol name="MEEP-SWM" value="1.0"/>
+            <symbol name="JSR172" value="1.0"/>
+            <symbol name="JSR280" value="1.0"/>
+            <symbol name="MEEP-IO" value="1.0"/>
+            <symbol name="SATSA-EXTENSION" value="1.0"/>
+         </symbolSet>
+      </configuration>
+   </configurations>
+   <liblets/>
+</mtjMetadata>
