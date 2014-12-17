@@ -3,6 +3,5 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="res"/>
 	<classpathentry exported="true" kind="con" path="org.elipse.mtj.JavaMEContainer/Oracle Java(TM) Platform Micro Edition SDK 8.1/EmbeddedExternalDevice1"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
