@@ -1,0 +1,7 @@
+com.oracle.jme.toolkit.eclipse.core.CLDCCodeValidator.assertion=WARNING
+com.oracle.jme.toolkit.eclipse.core.CLDCCodeValidator.autoBoxing=WARNING
+com.oracle.jme.toolkit.eclipse.core.CLDCCodeValidator.finalizer=WARNING
+com.oracle.jme.toolkit.eclipse.core.CLDCCodeValidator.switch.by.enum=WARNING
+com.oracle.jme.toolkit.eclipse.core.CLDCCodeValidator.switch.by.string=WARNING
+com.oracle.jme.toolkit.eclipse.core.CLDCCodeValidator.vararg=WARNING
+eclipse.preferences.version=1

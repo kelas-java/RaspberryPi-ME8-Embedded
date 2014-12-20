@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mtjMetadata jad="RaspiME8Embedded.jad" version="2.0.0.201411062058">
-   <device group="Oracle Java(TM) Platform Micro Edition SDK 8.1" name="EmbeddedExternalDevice1"/>
+   <device group="Oracle Java(TM) Platform Micro Edition SDK 8.1" name="Qualcomm_IoE_Device"/>
    <signing projectSpecific="false" signProject="false">
       <alias/>
    </signing>
